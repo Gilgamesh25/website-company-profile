@@ -2,11 +2,10 @@
 
 <hr>
 
-<h2>Komponen Wajib Dijalankan</h2>
+<h2>Instalasi</h2>
 <p>Instalasi</p>
 
-> $ git clone https://github.com/Adamibnualfatahh/Website-Company-Profile.git
->
+
 >$ cd Website-Company-Profile
 >
 >$ composer install
